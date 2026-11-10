@@ -5,5 +5,6 @@ int main() {
      printf("Book Registration Module\n");
      printf("Book Search Module\n");
      printf("Book Issue Module\n");
+     printf("Book Return Module\n");
     return 0;
 }
